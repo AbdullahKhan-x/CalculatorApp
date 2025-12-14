@@ -1,2 +1,2 @@
 # CalculatorApp
-A power calculator app
+A powerfull calculator app
